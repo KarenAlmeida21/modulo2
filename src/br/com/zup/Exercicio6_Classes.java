@@ -13,6 +13,7 @@ public class Exercicio6_Classes {
         float descontosindicato = (float) (0.05 * salarioBruto);
         System.out.println( " O desconto do sindicato será o valor de R$" + descontosindicato);
         float salarioLiquido = (float) (salarioBruto- descontosindicato - descontoImposto - descontoInss);
+        // termino do exercicio//
         System.out.println(" Seu salário líquido será o valor de R$ " + salarioLiquido);
 
     }
