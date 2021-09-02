@@ -1,6 +1,6 @@
 package br.com.zup;
 
-public class Exercicio6_Classes {
+public class Exercicio6_Variaveis {
     public static void main(String[] args) {
         float salarioHora = 9.09F;
         float qhorasmensais = 160F;

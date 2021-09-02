@@ -2,7 +2,7 @@ package br.com.zup;
 
 import java.util.Scanner;
 
-public class Atividade2_Classes {
+public class Atividade2_Variaveis_Scanner {
     public static void main(String[] args) {
        //instanciar o scanner
         Scanner obj_leitura = new Scanner(System.in);
